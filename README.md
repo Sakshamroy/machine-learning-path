@@ -1,4 +1,4 @@
 # machine-learning-path
 hi i am going to show my learning path of machine learning
 <br> 
-<i>Author - Saksham roy</i>
+<i>Author - roy</i>
